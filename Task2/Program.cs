@@ -23,3 +23,11 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+int i1 = 5;
+int i2 = 6;
+int i3 = 10;
+int i4 = 5;
+
+int sum4 = (i1*i2)/(i3+i4);
+Console.WriteLine(sum4);

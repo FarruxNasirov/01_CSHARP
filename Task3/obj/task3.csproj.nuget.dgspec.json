@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task1\\Task1.csproj": {}
+    "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task3\\task3.csproj": {}
   },
   "projects": {
-    "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task1\\Task1.csproj": {
+    "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task1\\Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task1\\Task1.csproj",
+        "projectUniqueName": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task3\\task3.csproj",
+        "projectName": "task3",
+        "projectPath": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task3\\task3.csproj",
         "packagesPath": "C:\\Users\\f.nasirov\\.nuget\\packages\\",
-        "outputPath": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task1\\obj\\",
+        "outputPath": "D:\\Geek Brains уроки\\9 - Урок 12.03.2024\\01_CSHARP\\lesson1\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\f.nasirov\\AppData\\Roaming\\NuGet\\NuGet.Config"
