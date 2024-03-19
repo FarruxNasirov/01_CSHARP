@@ -1,0 +1,14 @@
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\bin\Debug\net7.0\task6.exe
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\bin\Debug\net7.0\task6.deps.json
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\bin\Debug\net7.0\task6.runtimeconfig.json
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\bin\Debug\net7.0\task6.dll
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\bin\Debug\net7.0\task6.pdb
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.AssemblyInfoInputs.cache
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.AssemblyInfo.cs
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.csproj.CoreCompileInputs.cache
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.dll
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\refint\task6.dll
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.pdb
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\task6.genruntimeconfig.cache
+D:\Geek Brains уроки\9 - Урок 12.03.2024\01_CSHARP\lesson1\task6\obj\Debug\net7.0\ref\task6.dll
